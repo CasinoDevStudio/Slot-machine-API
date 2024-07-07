@@ -1,4 +1,5 @@
 # 🎰 Casino Slot Machine API Development Services 🎰
+# 🎰 FREE SLOT MACHINE CODE ^^ 🎰
 
 Welcome to our Casino Slot Machine API Development Services! We specialize in providing top-notch API development for a wide range of slot machines. Whether you're looking to integrate a few machines or an entire catalog of 1200 slot machines, we've got you covered.
 ![slots](https://github.com/CasinoDevStudio/Slot-machine-API/assets/174938249/6948b5e8-c20b-45da-a9b6-467689c825a0)
