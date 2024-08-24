@@ -13,7 +13,7 @@ Welcome to our Casino Slot Machine API Development Services! We specialize in pr
 
 ## 🛒 Webshop
 
-Check out our offerings at [buycasinoscript.com](https://buycasinoscript.com/) to find the perfect slot machines for your platform.
+Check out our offerings at [buycasinoscripts.com](https://buycasinoscripts.com/) to find the perfect slot machines for your platform.
 
 ## 📱 Connect with Us
 
